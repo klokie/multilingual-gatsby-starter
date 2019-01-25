@@ -1,0 +1,15 @@
+language: node_js
+node_js: node
+
+notifications:
+    email: false
+
+cache: yarn
+
+branches:
+  only:
+    - master
+
+script:
+  - "yarn test"
+  - "yarn build"

@@ -1,0 +1,15 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+
+# Build directory
+/public
+.DS_Store
+
+# Sass
+.sass-cache
+.sass-cache/*
+.sass-cache*
+**.css.map
+*.css.map
