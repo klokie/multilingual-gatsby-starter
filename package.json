@@ -2,8 +2,8 @@
 	"author": "Charbel Chahine",
 	"email": "chahine.charbel@me.com",
 	"license": "MIT",
-	"name": "auriane",
-	"description": "Auriane Douida Portfolio Website",
+	"name": "mountaincentral",
+	"description": "Multilingual Gatsby Starter",
 	"version": "1.0.0",
 	"dependencies": {
 		"gatsby": "next",
@@ -47,5 +47,5 @@
 		"sass": "sass --watch src/styles/scss:src/styles/css",
 		"sass:build": "sass — update src/styles/scss:src/styles/css"
 	},
-	"homepage": "https://aurianedouida.netlify.com/"
+	"homepage": "https://mountaincentral.netlify.com"
 }
