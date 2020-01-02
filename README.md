@@ -57,7 +57,7 @@ You will now be able to view the prototype at http://localhost:8000/. Any change
 
 ### Sass
 
-Run `yarn sasss` before making changes to any of the `.scss` files.
+Run `yarn global add sass && yarn sass` before making changes to any of the `.scss` files.
 
 ### Set up NetlifyCMS
 
